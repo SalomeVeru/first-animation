@@ -1,27 +1,25 @@
-/* *, ::after, ::before{
-    box-sizing: border-box;
-    margin: 0;
-    padding: o;
-} */
-body{
-    min-height: 100vh;
-    background: #f2f2;
+*{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
 }
-.bod{
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height:auto;
+.box1{
+    background: #607d8b ;
 }
-.busbg{
-    width: 100%;
-    height: 500px;
-    background: linear-gradient(to right rgba(81, 77, 77, 0.838) rgba(255, 34, 0, 0.764) rgba(69, 69, 240, 0.8) rgba(249, 163, 178, 0.815) );
+.box2{
+    background: #ab9973 ;
 }
-.bus{
-    width: 200px;
-    height: ;
-    background: rgba(224, 233, 57, 0.133);
+.box3{
+    background: #324b61 ;
+}
+.box4{
+    background: #a44b8e ;
+}
+.hero div{
+    padding: 30px;
+}
+h1{
+    color:#fff
+}
 
-}
+
